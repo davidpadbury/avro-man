@@ -1,0 +1,10 @@
+{
+  "name": "avro-man",
+  "description": "Avro",
+  "version": "0.0.0",
+  "main": "./lib/avro-man",
+  "dependencies": {
+    "long": "^3.0.1"
+  },
+  "devDependencies": {}
+}
