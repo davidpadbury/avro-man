@@ -1,3 +1,5 @@
+![avro-man](https://cloud.githubusercontent.com/assets/823104/11759997/e25ebb6e-a080-11e5-8465-3e8ccad32e8d.png)
+
 # Native Javascript Avro Implementation
 
 ## Background
