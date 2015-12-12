@@ -1,8 +1,8 @@
 {
   "name": "avro-man",
   "description": "Avro",
-  "version": "0.0.0",
-  "main": "./lib/avro-man",
+  "version": "0.0.1",
+  "main": "./lib/avroMan",
   "dependencies": {
     "long": "^3.0.1"
   },
