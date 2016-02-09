@@ -3,6 +3,7 @@
   "description": "Avro",
   "version": "0.0.1",
   "main": "./lib/avroMan",
+  "repository": "roberttod/avro-man",
   "dependencies": {
     "long": "^3.0.1"
   },
